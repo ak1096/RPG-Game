@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Travel
+comment0.text=\r\n\ Handles\ the\ travel\ sequence\ for\ the\ player.\ \r\n\ The\ player\ can\ choose\ from\ 4\ locations\:\ \r\n\ The\ North\ Pole,\ Ba\ Sing\ Se,\ Eastern\ Air\ Temple\ and\ the\ Fire\ Nation\ Capital.\r\n\ The\ location\ of\ the\ player\ determines\ the\ enemies\ they\ encounter.\ \r\n\ The\ Fire\ Nation\ Capital\ also\ holds\ Fire\ Lord\ Ozai,\ the\ final\ boss.\ \r\n
+comment1.params=
+comment1.target=Travel()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=
+comment2.target=void\ travel()
+comment2.text=\r\n\ This\ class\ handles\ the\ travelling\ sequence.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLocation()
+comment3.text=\r\n\ Returns\ the\ player's\ current\ location\r\n
+comment4.params=
+comment4.target=int\ getLocationIndex()
+comment4.text=\r\n\ Returns\ the\ location\ postion\ in\ array\ of\ all\ the\ locations.\ \r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\nNPC\ class\ is\ abstract\ and\ extends\ Character.\ This\ class\ has\ 3\ abstract\ methods\ that\ must\ be\ realized\ in\ all\ NPC\ sub\ classes.\ When\ the\ player\ encounters\ an\ NPC,\ the\ interface\ will\ procide\ a\ description\ of\ the\ NPC\ and\ allow\ the\ player\ to\ talk\ or\ barter\ with\ the\ NPC.\ \r\n
+comment1.params=
+comment1.target=NPC()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=n
+comment2.target=NPC(java.lang.String)
+comment2.text=\r\n\ Constructs\ NPC\ with\ name\r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ \ \ \ Prints\ description\ of\ NPC\r\n
+comment4.params=
+comment4.target=void\ talk()
+comment4.text=\r\n\ \ \ \ Returns\ dialogue\ between\ Player\ and\ NPC\r\n
+comment5.params=h
+comment5.target=void\ barter(Player)
+comment5.text=\r\n\ \ \ \ Runs\ barter\ sequence\ between\ Player\ and\ NPC\r\n
+numComments=6

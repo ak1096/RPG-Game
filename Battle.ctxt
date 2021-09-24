@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Battle
+comment0.text=\ \r\n\ *\ Handles\ battle\ sequence\ between\ the\ Player\ and\ Enemy\ object.\ The\ name\ and\ taunt\ of\ the\ enemy\ object\ will\ change\ based\ on\ the\ location\ but\ other\ attributes\ of\ the\ Enemy\ object\ will\ be\ randomized.\ \r\n
+comment1.params=
+comment1.target=Battle()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=h\ l
+comment2.target=void\ battle(Player,\ Enemy)
+comment2.text=\ \r\nHandles\ battle\ sequence\ between\ Player\ and\ random\ Enemy\ object\ based\ on\ location\r\n
+comment3.params=h
+comment3.target=void\ bossBattle(Player)
+comment3.text=\r\n\ Handles\ battle\ sequence\ between\ Player\ and\ Fire\ Lord\ Ozai\ (Enemy\ object).\ This\ sequence\ is\ only\ activated\ when\ Player\ goes\ to\ the\ Fire\ Nation\ Capital.\ \r\n
+numComments=4

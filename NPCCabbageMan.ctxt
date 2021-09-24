@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPCCabbageMan
+comment0.text=\r\n\ NPCCabbageMan\ class\ is\ basically\ a\ mini-game\ for\ the\ player\ to\ play.\r\n
+comment1.params=
+comment1.target=NPCCabbageMan()
+comment1.text=\r\n\ Constructs\ NPCCabbageMan\ object\r\n
+comment2.params=
+comment2.target=void\ talk()
+comment2.text=\r\n\ This\ class\ handles\ diagloue\ between\ the\ NPCQuest\ object\ and\ player.\r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ Prints\ description\ of\ NPCCabbageMan\r\n
+comment4.params=h
+comment4.target=void\ barter(Player)
+comment4.text=\r\n\ Handles\ barter\ sequence\ between\ player\ and\ NPCCabbageMan\r\n
+comment5.params=h
+comment5.target=void\ quest(Player)
+comment5.text=\r\n\ This\ class\ runs\ the\ Hangman\ game.\r\n
+numComments=6

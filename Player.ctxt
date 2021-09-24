@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\nThe\ player\ class\ extends\ BattleCharacter.\ Introduces\ coins.\ \r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ \ \ \ Default\ Player\ constructor\r\n
+comment2.params=n\ b
+comment2.target=Player(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ Constructs\ Hero\ with\ name\ and\ bender\ type\r\n
+comment3.params=n\ b\ w
+comment3.target=Player(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ \ \ \ Constructs\ Hero\ with\ name,\ bender\ type\ and\ weapon\r\n\ \ \ \ This\ is\ used\ for\ non-benders.\ \r\n
+comment4.params=c
+comment4.target=void\ setCoins(int)
+comment4.text=\r\n\ \ \ \ Sets\ coins\ of\ Player\r\n
+comment5.params=
+comment5.target=int\ getCoins()
+comment5.text=\r\n\ \ \ \ Returns\ amount\ of\ coins\ of\ Player\r\n
+comment6.params=
+comment6.target=java.lang.String\ getMove()
+comment6.text=\r\n\ \ \ \ Returns\ random\ move\ of\ Player\ during\ battle\r\n
+comment7.params=m
+comment7.target=void\ setMove(java.lang.String)
+comment7.text=\r\n\ \ \ \ Sets\ moves\ of\ Player.\ This\ is\ useful\ with\ Player\ encounters\ a\ trainer\ and\ is\ taught\ new\ moves.\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ \ \ \ Returns\ message\ of\ the\ Player\ stating\ name\ and\ statistics\r\n\ \ \ \ HP\ \=\ health,\ ATT\ \=\ maximum\ attack\ power,\ DEF\ \=\ defense\r\n\ \ \ \ EX.\ Aang\ |\ Airbender\ |\ HP\:\ 53\ |\ ATT\:\ 32\ |\ DEF\:\ 45\ |\ COINS\:\ 100\ |\ \r\n\r\n\ \ \ \ @overrides\:\ to\ String\ in\ class\ BattleCharacter\r\n
+numComments=9

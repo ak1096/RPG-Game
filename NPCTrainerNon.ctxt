@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NPCTrainerNon
+comment0.text=\r\n\ \ NPCTrainerNon\ class\ is\ an\ object\ only\ called\ for\ Players\ who\ are\ Non-benders.\ \r\n
+comment1.params=
+comment1.target=NPCTrainerNon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NPCTrainerNon\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\ \r\n\ Prints\ description\ for\ NPCTrainerNon\r\n
+comment3.params=
+comment3.target=void\ talk()
+comment3.text=\r\n\ Handles\ diagloue\ betweeen\ NPCTrainerNon\ and\ Player\r\n
+comment4.params=h
+comment4.target=void\ barter(Player)
+comment4.text=\r\n\ Handles\ barter\ sequence\ betweeen\ NPCTrainerNon\ and\ Player\r\n
+numComments=5

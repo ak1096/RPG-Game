@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RPGRunner
+comment0.text=\ \r\n\ Interface\ of\ the\ game.\ Handles\ overall\ run\ of\ game.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

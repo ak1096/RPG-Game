@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\nEnemy\ class\ extends\ BattleCharacters.\ Introduces\ taunts\ and\ list\ of\ moves.\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ \ \ \ Default\ Enemy\ Constructor\r\n
+comment2.params=n\ h\ a\ d\ b\ t
+comment2.target=Enemy(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ Constructs\ Enemy\ with\ all\ properties\ \r\n\ \ \ \ (Name,\ Health,\ Attack,\ Defense,\ Bender\ Type\ and\ Taunt)\r\n
+comment3.params=t
+comment3.target=void\ setTaunt(java.lang.String)
+comment3.text=\r\n\ \ \ \ Sets\ taunt\ of\ Enemy\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTaunt()
+comment4.text=\r\n\ \ \ \ Returns\ taunt\ of\ Enemy\r\n
+comment5.params=
+comment5.target=java.lang.String\ getMove()
+comment5.text=\r\n\ \ \ \ Returns\ move\ of\ Enemy\r\n
+comment6.params=m
+comment6.target=void\ setMove(java.lang.String)
+comment6.text=\r\n\ \ \ \ Sets\ move\ of\ Enemy\r\n
+numComments=7

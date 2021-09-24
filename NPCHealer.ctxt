@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NPCHealer
+comment0.text=\r\n\ The\ NPCHealer\ class\ restores\ the\ player's\ health.\ The\ default\ for\ the\ player\ is\ 100.\ If\ the\ player's\ health\ is\ greater\ than\ 100,\ the\ Healer\ adds\ 100\ \r\n\ to\ their\ health.\ (This\ is\ done\ purposefully\ due\ to\ the\ boss\ character's\ difficulty.)\r\n
+comment1.params=
+comment1.target=NPCHealer()
+comment1.text=\r\n\ Constructs\ NPCHealer\ class\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ \ \ \ Prints\ description\ of\ NPC\r\n
+comment3.params=
+comment3.target=void\ talk()
+comment3.text=\r\n\ \ \ \ Returns\ dialogue\ between\ Player\ and\ NPC\r\n
+comment4.params=h
+comment4.target=void\ barter(Player)
+comment4.text=\r\n\ \ \ \ Runs\ barter\ sequence\ between\ Player\ and\ NPC\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NPCTrainer
+comment0.text=\r\nNPCTrainer\ class\ extends\ NPC.\ The\ trainer\ allows\ the\ player\ to\ learn\ moves\ and\ improve\ attack\ and\ defense\ for\ gold.\ The\ trainer\ is\ decided\ by\ the\ bender\ type\ of\ the\ player.\ The\ class\ realizes\ the\ 3\ abstract\ methods\ of\ the\ NPC\ super\ class.\ The\ interface\ will\ provide\ a\ description\ and\ allow\ the\ player\ to\ talk\ or\ barter.\ \r\n
+comment1.params=n
+comment1.target=NPCTrainer(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ NPCTrainer\ object\ with\ name\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ Prints\ description\ of\ NPCTrainer\r\n
+comment3.params=
+comment3.target=void\ talk()
+comment3.text=\r\n\ Handles\ dialouge\ between\ Player\ and\ NPCTrainer\r\n
+comment4.params=h
+comment4.target=void\ barter(Player)
+comment4.text=\ \r\n\ Handles\ barter\ sequence\ between\ Player\ and\ NPCTrainer\r\n
+numComments=5

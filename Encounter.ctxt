@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Encounter
+comment0.text=\r\n\ This\ class\ determines\ what\ will\ happen\ to\ the\ Player.\ \r\n\ Player\ has\ 3\ encounters\:\ battling,\ engaging\ a\ NPCTrainer\ (based\ on\ bender\ type)\r\n\ and\ engaging\ NPCRebel.\ Their\ is\ an\ equal\ chance\ for\ all\ the\ results.\ \r\n
+comment1.params=
+comment1.target=Encounter()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=h\ travel
+comment2.target=void\ randomEncounter(Player,\ Travel)
+comment2.text=\ \r\n\ Random\ encounter\:\ battle\ and\ NPC\ (NPCTrainer\ and\ NPCRebel)\r\n\ There\ is\ not\ an\ equal\ chance\ to\ meet\ each\ encounter.\ Battles\ occur\ around\ 67%\ of\ the\ time,\ NPCTrainer\:\ 12.5%,\ NPCHealer\:\ 8%,\ NPCRebel\:\ 8%,\ NPCCabbageMan\:\ 5%\r\n
+comment3.params=h
+comment3.target=NPCTrainer\ pickNPCTrainer(Player)
+comment3.text=\r\nIf\ the\ Random\ Encounter\ class\ results\ in\ engaging\ with\ a\ NPCTrainer\r\n,this\ class\ helps\ pick\ the\ correct\ Trainer\ based\ on\ bender\ type.\ \ \r\n
+numComments=4

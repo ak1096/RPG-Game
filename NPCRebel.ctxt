@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPCRebel
+comment0.text=\ \r\n\ NPCRebel\ extends\ NPC.\ This\ object\ helps\ the\ Player\ boost\ their\ health\ and\ serves\ as\ a\ rest\ stop\ in\ the\ game.\ \r\n
+comment1.params=n
+comment1.target=NPCRebel(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ NPCRebel\ object\ with\ name\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ Prints\ description\ of\ the\ NPCRebel\r\n
+comment3.params=
+comment3.target=void\ talk()
+comment3.text=\r\n\ Handles\ diagloue\ between\ NPCRebel\ and\ Player\r\n
+comment4.params=h
+comment4.target=void\ barter(Player)
+comment4.text=\r\n\ Handles\ Barter\ sequence\ between\ NPCRebel\ and\ Player\r\n
+comment5.params=t
+comment5.target=NPCRebel\ randomNPCRebelMaker(Travel)
+comment5.text=\ The\ method\ below\ is\ a\ static\ method.\ It's\ responsible\r\n\ for\ creating\ a\ random\ NPCRebel\ object\ for\ the\ Player.\ NPCRebels\ differ\ based\ on\ location.\ \ \ \r\n
+numComments=6
